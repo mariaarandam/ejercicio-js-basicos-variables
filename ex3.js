@@ -2,10 +2,11 @@
  * Jugando con string
  */
 
-let nombre = "Mad";
-let apellido = "Max";
+let nombre = "Maria";
+let apellido = "Aranda";
 
-let presentacion = "";
+let presentacion = "Me llamo " + nombre +" "+ apellido;
+
 
 /**
  * Pregunta 1: ¿Qué valor tengo que asignar a 'presenetacion' para que me muestre pantalla:
