@@ -16,7 +16,13 @@
  * 
  */
 
+let gatos = 0;
+let pareja = "Maria";
+let pais = "Copenhaguen";
+let trabajo = "Astronauta";
+
 let numeroGatos = 10;
 
-let futuro = "tendréis " + numeroGatos + " gatos";
+let futuro = "Tú estarás en " + pais + " trabajando de " + trabajo + " y tu pareja será " + pareja + " y tendréis " + gatos + " gatos";
+
 console.log(futuro);
